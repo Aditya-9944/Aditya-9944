@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aditya Pratap Singh</h1>
-<h3 align="center">🚀 Aspiring Full-Stack Developer | Web3 Enthusiast | Ex-Football National Player ⚽</h3>
+<h3 align="center">🚀 Aspiring Full-Stack Developer | Web Enthusiast | CMS designer</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=aditya-9944&label=Profile%20views&color=0e75b6&style=flat" alt="aditya-9944" />
@@ -35,7 +35,7 @@
 
 ### 🔥 Featured Projects
 
-- 🧥 [De Novo Clothing Website](https://github.com/Aditya-9944/Dnovo) – modern streetwear brand UI
+- 🧥 [De Novo Clothing Website](https://github.com/Aditya-9944/Dnovo)
 - 🍽️ [Restaurant E-Commerce](https://github.com/Aditya-9944/e-commerce-restraunt)
 - ☕ [Cafe Website](https://github.com/Aditya-9944/Cafe-website)
 - 💼 [3D React Portfolio](https://github.com/Aditya-9944/3d-react-portfolio)
