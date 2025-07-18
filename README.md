@@ -33,33 +33,9 @@
 
 ---
 
-### 🔥 Featured Projects
 
-- 🧥 [De Novo Clothing Website](https://github.com/Aditya-9944/Dnovo)
-- 🍽️ [Restaurant E-Commerce](https://github.com/Aditya-9944/e-commerce-restraunt)
-- ☕ [Cafe Website](https://github.com/Aditya-9944/Cafe-website)
-- 💼 [3D React Portfolio](https://github.com/Aditya-9944/3d-react-portfolio)
-- 📚 [Online Learning Platform](https://github.com/Aditya-9944/learning-platform)
-
----
-
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aditya-9944&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aditya-9944&theme=radical" alt="GitHub Streak" />
 </p>
 
----
 
-### 🤝 Let's Connect!
-
-- 💼 [LinkedIn](https://www.linkedin.com/in/adityapratapsingh9944/)
-- 🧑‍💻 [Portfolio](https://aditya-9944.github.io/3d-react-portfolio)
-- 📝 [Blogs on Hashnode](https://adityapratapsingh.hashnode.dev) (optional)
-- 📫 Reach me: **adityapratapsingh9944@gmail.com**
-
----
 
 ⭐️ **Star** some of my projects if you find them interesting. Let’s grow together! 🙌
