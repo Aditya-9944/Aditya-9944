@@ -1,16 +1,65 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Aditya Pratap Singh</h1>
+<h3 align="center">🚀 Aspiring Full-Stack Developer | Web3 Enthusiast | Ex-Football National Player ⚽</h3>
 
-<!--
-**Aditya-9944/Aditya-9944** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=aditya-9944&label=Profile%20views&color=0e75b6&style=flat" alt="aditya-9944" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 👨‍💻 About Me
+
+- 🌱 I’m currently sharpening my skills in **Java, DSA, and Full-Stack Web Development**
+- 🎯 Working on `De Novo` – my own **street-style clothing brand website**
+- 🔭 Currently collaborating on multiple **React + 3D (Three.js)** projects
+- 📈 Built a complete **Restaurant E-Commerce Website** with admin dashboard & order management
+- 📱 Learning **Flutter** for mobile app development
+- 🏅 Former national-level **football player**, also passionate about **chess** and **UI/UX design**
+
+---
+
+### 🛠️ Tech Stack & Tools
+
+![HTML](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?logo=node.js&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?logo=mongodb&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?logo=java&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
+
+---
+
+### 🔥 Featured Projects
+
+- 🧥 [De Novo Clothing Website](https://github.com/Aditya-9944/Dnovo) – modern streetwear brand UI
+- 🍽️ [Restaurant E-Commerce](https://github.com/Aditya-9944/e-commerce-restraunt)
+- ☕ [Cafe Website](https://github.com/Aditya-9944/Cafe-website)
+- 💼 [3D React Portfolio](https://github.com/Aditya-9944/3d-react-portfolio)
+- 📚 [Online Learning Platform](https://github.com/Aditya-9944/learning-platform)
+
+---
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=aditya-9944&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aditya-9944&theme=radical" alt="GitHub Streak" />
+</p>
+
+---
+
+### 🤝 Let's Connect!
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/adityapratapsingh9944/)
+- 🧑‍💻 [Portfolio](https://aditya-9944.github.io/3d-react-portfolio)
+- 📝 [Blogs on Hashnode](https://adityapratapsingh.hashnode.dev) (optional)
+- 📫 Reach me: **adityapratapsingh9944@gmail.com**
+
+---
+
+⭐️ **Star** some of my projects if you find them interesting. Let’s grow together! 🙌
