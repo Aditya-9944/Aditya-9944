@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aditya Pratap Singh</h1>
 <h3 align="center">🚀 Aspiring Full-Stack Developer | Web Enthusiast | CMS designer</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=aditya-9944&label=Profile%20views&color=0e75b6&style=flat" alt="aditya-9944" />
-</p>
-
 ---
 
 ### 👨‍💻 About Me
