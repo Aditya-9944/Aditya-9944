@@ -5,12 +5,12 @@
 
 ### 👨‍💻 About Me
 
-- 🌱 I’m currently sharpening my skills in **Java, DSA, CMS and Full-Stack Web Development**
-- 🎯 Working on `De Novo` – my own **street-style clothing brand website**
-- 🔭 Currently collaborating on multiple **React + 3D (Three.js)** projects
-- 📈 Built a complete **Restaurant E-Commerce Website** with admin dashboard & order management
-- 📱 Learning **Flutter** for mobile app development
-- 🏅 Former national-level **football player**, also passionate about **chess** and **UI/UX design**
+- 🌱 I’m currently sharpening my skills in **Java, DSA, CMS and Full-Stack Web Development**.
+- 🎯 Working on `De Novo` – my own **street-style clothing brand website**.
+- 🔭 Currently collaborating on multiple **React + 3D (Three.js)** projects.
+- 📈 Built a complete **Restaurant E-Commerce Website** with admin dashboard & order management.
+- 📱 Learning **Flutter** for mobile app development.
+- 🏅 Former national-level **football player**, also passionate about **chess** and **UI/UX design**.
 
 ---
 
