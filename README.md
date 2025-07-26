@@ -1,7 +1,7 @@
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7" />
 
 <h1 align="center">Hi 👋, I'm Aditya Pratap Singh
-  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7bb1e704-6026-48f9-8435-2f4d40101348" width="70" />
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMG5hejdtNnloazd1a3JiZGlrMWxuZzNuYWwwa2t1MzF3MHQ5ZmpyMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fy1WJaIboOEIJ4y78K/giphy.gif" width="70" />
 </h1>
 
 <h3 align="center">🚀 Aspiring Full-Stack Developer | Web Enthusiast | CMS Designer</h3>
