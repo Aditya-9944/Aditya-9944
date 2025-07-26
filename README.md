@@ -15,13 +15,13 @@
 
 <img align="right" alt="coding-gif" width="400" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/219bcc70-f5dc-466b-9a60-29653d8e8433" />
 
-- 🌱 Sharpening skills in **Java, DSA, CMS, and Full-Stack Web Dev**
-- 🎯 Founder of `De Novo` – a **street-style clothing brand**
-- 🔭 Collaborating on exciting **React + Three.js** projects
-- 🍽️ Built a full **Restaurant Ordering Website** with admin panel
-- 📱 Exploring **Flutter** for mobile app dev
-- 🏆 Former national-level **football player**, passionate about **chess** & **UI/UX**
-
+- 🌱 Sharpening skills in **Java, DSA, CMS, and Full-Stack Web Dev**  
+- 🎯 Founder of `De Novo` – a **street-style clothing brand**  
+- 🔭 Collaborating on exciting **React + Three.js** projects  
+- 🍽️ Built a full **Restaurant Ordering Website** with admin panel  
+- 📱 Exploring **Flutter** for mobile app dev  
+- 🏆 Former national-level **football player**, passionate about **chess** & **UI/UX**  
+- 🥇 **Winner of multiple tech competitions**, including **1st place at a Hackathon and Techathon**
 ---
 
 ## 🛠️ Tech Stack & Tools
