@@ -41,23 +41,6 @@
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?logo=wordpress&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
 
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Aditya-9944&theme=tokyonight&show_icons=true" />
-  <br />
-  <img src="https://streak-stats.demolab.com/?user=Aditya-9944&theme=tokyonight" />
-</p>
-
----
-
-## 🏆 Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Aditya-9944&theme=algolia&margin-w=10&no-frame=true" />
-</p>
 
 ---
 
