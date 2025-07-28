@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Aditya Pratap Singh
 </h1>
 
-<h3 align="center">🚀 Aspiring Full-Stack Developer | Web Enthusiast | CMS Designer</h3>
+<h3 align="center">🚀 Aspiring Full-Stack Developer | Web Enthusiast | Cms Designer</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=500&lines=Building+De+Novo+-+Streetwear+Brand;Creating+with+React+%26+Three.js;Learning+Java+%7C+DSA+%7C+Flutter+%7C+R;Ex-National+Football+Player+%7C+Chess+Lover" alt="Typing SVG" />
